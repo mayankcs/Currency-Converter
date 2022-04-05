@@ -56,14 +56,17 @@ we have three files
  2. history.py
  3. main.py
 
- **main. py**
+ **main. py** :-
+ 
 it is the driving script that calls required function from other files in the same directory 
 
-**exchange_rate.py**
+**exchange_rate.py** :-
+
 This file has function named get_exchange_rate that return exchange rate ,and this function is called by main script and exchange rate returned is multiplied with amount supplied by user and result is displayed to user
 
 get_exchange_rate function uses API to fetch exchange rate in real time
 
-**history. py**
+**history. py**:-
+
 This file contains function to get previous month date and previous year date, which are then supplied to get_exchange_rate function in exchange_rate.py to have exchange rate of that time.
 Once we have exchange rate then converted value as per that rate is displayed to user in last two lines
