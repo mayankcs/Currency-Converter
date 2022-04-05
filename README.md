@@ -45,3 +45,25 @@ run main.py
 ![github](https://user-images.githubusercontent.com/65117236/161731609-3eb6ab62-222e-466d-9cba-5b38952d33aa.JPG)
 
 last 2 lines tells the conversion using historical data of previous month and previous year
+
+Currency code can be found from [here](https://www.iban.com/currency-codes)
+
+## How it works?
+
+we have three files 
+
+ 1. exchange_rate.py
+ 2. history.py
+ 3. main.py
+
+ **main. py**
+it is the driving script that calls required function from other files in the same directory 
+
+**exchange_rate.py**
+This file has function named get_exchange_rate that return exchange rate ,and this function is called by main script and exchange rate returned is multiplied with amount supplied by user and result is displayed to user
+
+get_exchange_rate function uses API to fetch exchange rate in real time
+
+**history. py**
+This file contains function to get previous month date and previous year date, which are then supplied to get_exchange_rate function in exchange_rate.py to have exchange rate of that time.
+Once we have exchange rate then converted value as per that rate is displayed to user in last two lines
