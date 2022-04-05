@@ -48,7 +48,8 @@ run main.py
     last month USD 5 was equals to INR 381.867520
     last year USD 5 was equals to INR 366.398745
 
-![github](https://user-images.githubusercontent.com/65117236/161731609-3eb6ab62-222e-466d-9cba-5b38952d33aa.JPG)
+
+![Currency](https://user-images.githubusercontent.com/65117236/161817311-301ce9c3-e1d7-467f-a67b-768677f8f4de.JPG)
 
 last 2 lines tells the conversion using historical data of previous month and previous year
 
