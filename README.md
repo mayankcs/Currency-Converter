@@ -1,6 +1,7 @@
 
 # Currency-Converter 💰
 This is the command line app for Real time Currency Converter, that let you convert your currency into other 
+
 *Q. Why i called it real time ?*
 *--> Because, currency exchange rate's are always changing and that is why this is real time problem*
 
