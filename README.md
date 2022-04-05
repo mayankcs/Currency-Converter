@@ -7,13 +7,13 @@ This is the command line app for Real time Currency Converter, that let you conv
 
 *--> Because, currency exchange rate's are always changing and that is why this is real time problem*
 
-> Hey !! You want Web app for this converter then
+> Hey !! You want Web app for this converter ?
 > 
-> then no worries, we have **deployed this app to heroku** 
+> No worries, we have **deployed this app to Heroku** 
 > 
 > **[click here](https://currency-cvt.herokuapp.com/)** to see 
 
-Let's first have look towards it
+Now let's have deep dive into command line app 
 
 ## How to run Currency-Converter
 
