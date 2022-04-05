@@ -24,6 +24,7 @@ command line app will not only provide converted amount but also will let user k
 
 See the demo below:-
 Say i want to convert USD 5 to INR
+
 run main.py
 
     code>main.py
@@ -35,6 +36,11 @@ run main.py
     Convert from USD
     Convert to INR
     Amount to convert USD 5
+    ******************************
+    USD 5 equals to INR 376.990445
+    
+    last month USD 5 was equals to INR 381.867520
+    last year USD 5 was equals to INR 366.398745
 
 ![github](https://user-images.githubusercontent.com/65117236/161731609-3eb6ab62-222e-466d-9cba-5b38952d33aa.JPG)
 
