@@ -96,7 +96,7 @@ Once we have an exchange rate, the converted value is shown to the user in the l
 
 This is [Mayank Chaudhari](https://mayankvision.wordpress.com/), a person who has been fascinated by technology from childhood and who enjoys  digging into technologies that have potential to make change in the society . 
 
-I am very excited about **Full stack development** and **computer vision** field as i believe world is coming online and *AI revolution* is about to heat the world!
+I am very excited about **Full stack development** and **computer vision** field as i believe world is coming online and *AI revolution* is about to heat the world! and i want to be the part of this new revolution
 
 
 ## 📝 My other work 
