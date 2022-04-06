@@ -94,6 +94,29 @@ Once we have an exchange rate, the converted value is shown to the user in the l
 
 ## 👨 A little bit about me
 
-This is [Mayank Chaudhari](https://mayankvision.wordpress.com/), a person who has been fascinated by technology from childhood and who enjoys digging into things that have the potential to alter something that people have not thought.
+This is [Mayank Chaudhari](https://mayankvision.wordpress.com/), a person who has been fascinated by technology from childhood and who enjoys  digging into technologies that have potential to make change in the society . 
 
-I am currently pursuing my Engineering degree and exploring technology on my own, and I am especially interested in full stack development and computer vision.
+I am very excited about **Full stack development** and **computer vision** field as i believe world is coming online and *AI revolution* is about to heat the world!
+
+
+## 📝 My other work 
+
+
+Let me showcase some of my work in the context of computer vision.
+
+ - Face mask detector
+ - Sharpener detector
+ - Biscuit detector
+
+All the models i made have some real life application in industry 
+
+My models stand's out since I did not utilise a large amount of data to train them. For the biscuit detector, I used 20 images, and for the face mask, I did not use any real images.
+
+My biscuit detector stands out because it recognises excellent biscuits on the conveyor belt and intelligently discards defective ones; for more information, [click here](https://mayankvision.wordpress.com)!
+
+In consideration with development, let me highlight some of my work
+
+ - E-commerce website
+ - Result publishing portal
+ - Currency Converter
+
