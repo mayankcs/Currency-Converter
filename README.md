@@ -9,6 +9,7 @@ Directly jump to
  - [How to run this programme](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-to-run-currency-converter) ?
  - [How this programme works](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-it-works) ?
  - [Web Application for Currency-Converter](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#-web-application-for-currency-converter)
+ - [About me](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#a-little-bit-about-me)
 -----
 *Q. Why i called it real time ?*
 
@@ -91,7 +92,7 @@ Once we have an exchange rate, the converted value is shown to the user in the l
  - Check out that Github repository by clicking [here](https://github.com/mayankcs/Currency-Converter-web-app) ( which is linked with Heroku )
  - Alternatively, you can simply click [here](https://currency-cvt.herokuapp.com/) to view that Website in real time.
 
-## A little bit about me
+## 👨 A little bit about me
 
 This is [Mayank Chaudhari](https://mayankvision.wordpress.com/), a person who has been fascinated by technology from childhood and who enjoys digging into things that have the potential to alter something that people have not thought.
 
