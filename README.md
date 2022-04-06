@@ -1,17 +1,18 @@
 
 
+
 # Currency-Converter 💰
-This is the command line app for Real time Currency Converter, that let you convert your currency into other 
+This is the command line programme for the Real Time Currency Converter, which allows you to convert currency to other currencies.
 
 *Q. Why i called it real time ?*
 
-*--> Because, currency exchange rate's are always changing and that is why this is real time problem*
+*--> Because, currency exchange rate's are dynamic and get constatntly fluctuate due to the fact that a currency's value is determined by a variety of factors in the country
 
 > Hey !! You want Web app for this converter ?
 > 
-> No worries, we have **deployed this app to Heroku** 
+> Not to worry, we've already **deployed this app on Heroku**.
 > 
-> **[click here](https://currency-cvt.herokuapp.com/)** to see 
+> **[click here](https://currency-cvt.herokuapp.com/)** to check it live!
 
 Now let's have deep dive into command line app 
 
@@ -26,7 +27,7 @@ main.py will demand 3 arguments from user
 2. Target currency code
 3. Amount to convert
 
-command line app will not only provide converted amount but also will let user know what would have been conversion value if exchange rate of previous/last month or year was applied  
+The command line program will not only Display the converted amount, but will also inform the user of what the conversion value would have been if the previous/last month's or year's exchange rate had been used.
 
 See the demo below:-
 Say i want to convert USD 5 to INR
@@ -51,7 +52,7 @@ run main.py
 
 ![Currency](https://user-images.githubusercontent.com/65117236/161817311-301ce9c3-e1d7-467f-a67b-768677f8f4de.JPG)
 
-last 2 lines tells the conversion using historical data of previous month and previous year
+The last two lines describe the conversion using historical data from the prior month and year.
 
 Currency code can be found from [here](https://www.iban.com/currency-codes)
 
@@ -65,15 +66,21 @@ we have three files
 
  **main. py** :-
  
-it is the driving script that calls required function from other files in the same directory 
+This is the script that calls the necessary functions from other files in the same directory and displays Conversion to the user.
 
 **exchange_rate.py** :-
 
-This file has function named get_exchange_rate that return exchange rate ,and this function is called by main script and exchange rate returned is multiplied with amount supplied by user and result is displayed to user
+This file has a function named get exchange rate, which returns the exchange rate. The function is called by the main script, and the exchange rate obtained is multiplied by the amount given by the user, and the result is presented to the user.
 
-get_exchange_rate function uses API to fetch exchange rate in real time
+The get_exchange_rate method uses the API to retrieve the current exchange rate.
 
 **history. py**:-
 
-This file contains function to get previous month date and previous year date, which are then supplied to get_exchange_rate function in exchange_rate.py to have exchange rate of that time.
-Once we have exchange rate then converted value as per that rate is displayed to user in last two lines
+This file provides functions for retrieving the prior month and year dates, which are then passed to the get_exchange_rate function in exchange rate.py to obtain the exchange rate at that time.
+
+Once we have an exchange rate, the converted value is shown to the user in the last two lines.
+
+## 💻 Web Application for Currency-Converter
+
+Check out that Github repository by clicking [here](https://github.com/mayankcs/Currency-Converter-web-app).
+Alternatively, you can simply click [here](https://currency-cvt.herokuapp.com/) to view that Website in real time.
