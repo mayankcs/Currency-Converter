@@ -9,7 +9,7 @@ Directly jump to
  - [How to run this programme](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-to-run-currency-converter) ?
  - [How this programme works](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-it-works) ?
  - [Web Application for Currency-Converter](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#-web-application-for-currency-converter)
- - [About me](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#a-little-bit-about-me)
+ - [About me](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#-a-little-bit-about-me)
 -----
 *Q. Why i called it real time ?*
 
