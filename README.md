@@ -1,4 +1,6 @@
 
+
+
 # Currency-Converter 💰
 This is the command line programme for the Real Time Currency Converter, which allows you to convert currency to other currencies.
 
@@ -86,5 +88,11 @@ Once we have an exchange rate, the converted value is shown to the user in the l
 
 ## 💻 Web Application for Currency-Converter
 
-Check out that Github repository by clicking [here](https://github.com/mayankcs/Currency-Converter-web-app).
-Alternatively, you can simply click [here](https://currency-cvt.herokuapp.com/) to view that Website in real time.
+ - Check out that Github repository by clicking [here](https://github.com/mayankcs/Currency-Converter-web-app) ( which is linked with Heroku )
+ - Alternatively, you can simply click [here](https://currency-cvt.herokuapp.com/) to view that Website in real time.
+
+## A little bit about me
+
+This is [Mayank Chaudhari](https://mayankvision.wordpress.com/), a person who has been fascinated by technology from childhood and who enjoys digging into things that have the potential to alter something that people have not thought.
+
+I am currently pursuing my Engineering degree and exploring technology on my own, and I am especially interested in full stack development and computer vision.
