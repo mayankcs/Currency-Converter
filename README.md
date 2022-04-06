@@ -1,12 +1,13 @@
 
-
-
 # Currency-Converter 💰
 This is the command line programme for the Real Time Currency Converter, which allows you to convert currency to other currencies.
 
-Jump directly to
-[How to run this command line app](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-to-run-currency-converter)
 
+Directly jump to
+ - [How to run this programme](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-to-run-currency-converter) ?
+ - [How this programme works](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-it-works) ?
+ - [Web Application for Currency-Converter](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#-web-application-for-currency-converter)
+-----
 *Q. Why i called it real time ?*
 
 *--> Because, currency exchange rate's are dynamic and get constatntly fluctuate due to the fact that a currency's value is determined by a variety of factors in the country
