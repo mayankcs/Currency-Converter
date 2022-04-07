@@ -87,7 +87,7 @@ This file provides functions for retrieving the prior month and year dates, whic
 
 Once we have an exchange rate, the converted value is shown to the user in the last two lines.
 
-**Future foal** : To give historical currency conversion without the use of an API!
+## **Future Goal** : To give historical currency conversion without the use of an API!
 
 ## 💻 Web Application for Currency-Converter
 
