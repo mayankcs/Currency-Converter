@@ -1,6 +1,7 @@
 
 
 
+
 # Currency-Converter 💰
 This is the command line programme for the Real Time Currency Converter, which allows you to convert currency to other currencies.
 
@@ -9,6 +10,7 @@ Directly jump to
  - [How to run this programme](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-to-run-currency-converter) ?
  - [How this programme works](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#how-it-works) ?
  - [Web Application for Currency-Converter](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#-web-application-for-currency-converter)
+ - [Future goal](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#future-goal-)
  - [About me](https://github.com/mayankcs/Currency-Converter/blob/main/README.md#-a-little-bit-about-me)
 -----
 *Q. Why i called it real time ?*
@@ -87,7 +89,7 @@ This file provides functions for retrieving the prior month and year dates, whic
 
 Once we have an exchange rate, the converted value is shown to the user in the last two lines.
 
-## Future Goal : 
+## 🎯 Future Goal : 
 
  - To Provide currency conversion without the use of an API! 
 
